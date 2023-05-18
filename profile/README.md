@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<h1 align="center">Next.js and React expertise to supercharge your innovation</h1>
+<h1 align="center">Next.js and React development experts</h1>
 
 </p>
   
