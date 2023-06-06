@@ -11,7 +11,8 @@
   <a href="https://blazity.com/case-studies">Our work</a> —
   <a href="https://blazity.com/case-study/unreal-estate">UnrealEstate case</a> —
   <a href="https://blazity.com/case-study/dropsy">Dropsy case</a> —
-  <a href="https://vercel.com/experts/blazity">Vercel partnership</a>
+  <a href="https://vercel.com/experts/blazity">Vercel partnership</a> —  
+  <a href="https://blazity.com/discord">Discord</a>
 </div>
 <h3 align="center">
 <a href="https://blazity.com/#contact"><i>Get involved!</i></a>
